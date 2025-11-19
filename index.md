@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Jan Krems'
+title: 'Jan Martin'
 ---
 
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;height:100%;">
@@ -11,12 +11,12 @@ title: 'Jan Krems'
     height: 280px;
     border: 10px solid #eee;
     ">
-    <img src="/images/flute.jpg" alt="Jan Krems, a long time ago">
+    <img src="/images/flute.jpg" alt="Jan Martin, a long time ago">
   </div>
   <p style="font-size:2em">
     Maybe have a look at
-    <a href="https://github.com/jkrems">Github</a>
-    or <a href="https://twitter.com/jankrems">Twitter</a>.
+    <a href="https://github.com/hybrist">Github</a>
+    or <a href="https://x.com/hybristdev">Twitter</a>.
   </p>
   <div style="font-size: 1.2em;">
     <iframe style="float: left; margin-right: 10px;" width="160" height="160"
